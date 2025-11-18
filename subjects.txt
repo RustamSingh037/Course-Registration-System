@@ -1,0 +1,11 @@
+10
+1 maths
+2 physics
+3 science
+4 chemistry
+5 java
+6 bio
+7 atcd
+8 os
+9 ppsc
+10 practicums
